@@ -1,0 +1,8 @@
+./docking_models/AutoDockVina/ADFRsuite-1.0/*
+./docking_models/DiffDock/workdir/*
+./docking_models/DynamicBind/workdir
+./docking_models/DynamicBind/esm_models/checkpoints/*
+./docking_models/DynamicBind/**/*.pt
+*.pt
+*.zip
+./docking_models/NeuralPlexer/neuralplexermodels_downstream_datasets_predictions
