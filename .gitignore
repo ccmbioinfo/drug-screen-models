@@ -6,3 +6,4 @@ docking_models/DynamicBind/**/*.pt
 *.pt
 *.zip
 docking_models/NeuralPlexer/neuralplexermodels_downstream_datasets_predictions
+diffusion_models/Pocket2Mol/data/crossdocked_pocket10/
